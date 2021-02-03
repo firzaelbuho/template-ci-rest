@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Template Rest Api Controller Siap Pakai </h1>
+<h1> Welcome </h1>
 
 </body>
 </html>
